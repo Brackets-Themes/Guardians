@@ -1,8 +1,8 @@
 {
     "title": "Guardians",
     "name": "guardians",
-    "description": "Guardians Theme for Brackets. Inspired by https://twitter.com/JamesAbels/status/496992141806034944. A Brackets original.",
-    "version": "1.0.0",
+    "description": "Guardians Theme for Brackets. A Brackets original.",
+    "version": "1.0.1",
     "author": "larz0 (https://github.com/larz0)",
     "homepage": "https://github.com/Brackets-Themes/Guardians",
     "repository": {
