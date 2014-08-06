@@ -1,7 +1,7 @@
 Guardians Theme for Brackets
 ===============================
 
-Colors picked for speed. A Brackets original.
+You are groot. A Brackets original.
 
 ## HTML
 ![HTML Screenshot](https://github.com/Brackets-Themes/Guardians/blob/master/screenshots/html.png)
